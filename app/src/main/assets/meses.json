@@ -1,0 +1,389 @@
+{
+ "actualizado": "2026-10-15 22:40",
+ "meses": {
+  "2026-09": {
+   "listas": [
+    {
+     "fecha": "2026-09-04",
+     "filas": [
+      {
+       "hab": "5",
+       "nombre": "KEVIN FELIPE ROMERO GARCIA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "5",
+       "nombre": "MICHAEL STEVEN ORTIZ RODRIGUEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "6",
+       "nombre": "VICTOR HUGO LENIS",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "6",
+       "nombre": "YEFFERSON ANDRES HERRERA CABEZAS",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "12",
+       "nombre": "JESUS ONOFRE PARRADO CRUZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "12",
+       "nombre": "PABLO BREYSON GOMEZ BARRERA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "14",
+       "nombre": "GERMAN DANIEL MARTINEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "14",
+       "nombre": "CARLOS EDUARDO CORREA SILVA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "15",
+       "nombre": "CRISTIAN YESID CUELLAR GONZALEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "15",
+       "nombre": "ARCESIO RODRIGUEZ OYOLA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "16",
+       "nombre": "JOHN FREDY CASTAÑO MARIÑO",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "16",
+       "nombre": "EDGAR ANDRES DAZA ESTUPIÑAN",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "17",
+       "nombre": "URIEL ANDRES ALBERNIA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "17",
+       "nombre": "GERMAN LARA LEON",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "21",
+       "nombre": "JOHNATAN FERNEY MOLINA ANZOLA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "21",
+       "nombre": "YOLBER EDY YAIR GONDELLEZ MARTINEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "24",
+       "nombre": "DONNAL YONEY GALLO",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "24",
+       "nombre": "IVAN DARIO GOMEZ CARDENAS",
+       "turno": "MITAD"
+      }
+     ]
+    },
+    {
+     "fecha": "2026-09-11",
+     "filas": [
+      {
+       "hab": "5",
+       "nombre": "HAROLD SANTIAGO BOLAÑOS FUENTES",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "5",
+       "nombre": "MICHAEL STEVEN ORTIZ RODRIGUEZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "6",
+       "nombre": "JESUS YESID VELASCO PEÑA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "6",
+       "nombre": "YEFFERSON ANDRES HERRERA CABEZAS",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "12",
+       "nombre": "LUIS MIGUEL GAITAN",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "12",
+       "nombre": "JESUS ONOFRE PARRADO CRUZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "14",
+       "nombre": "ROBINSON CHIVATA GONZALEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "14",
+       "nombre": "ARLEY GARAVITO",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "15",
+       "nombre": "RUBEN DARIO FERRER",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "15",
+       "nombre": "CRISTIAN YESID CUELLAR GONZALEZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "16",
+       "nombre": "LUIS ANTONIO RAMIREZ RIVERO",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "16",
+       "nombre": "FRANKLIN LOZADA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "17",
+       "nombre": "JUAN GAITAN LEON",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "17",
+       "nombre": "GERMAN LARA LEON",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "21",
+       "nombre": "HUGO ALBEIRO MORENO MARTINEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "21",
+       "nombre": "YOLBER EDY YAIR GONDELLEZ MARTINEZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "24",
+       "nombre": "DONNAL YONEY GALLO",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "24",
+       "nombre": "DIEGO ALEJANDRO ORREGO CARVAJAL",
+       "turno": "INGRESA"
+      }
+     ]
+    },
+    {
+     "fecha": "2026-09-18",
+     "filas": [
+      {
+       "hab": "5",
+       "nombre": "KEVIN FELIPE ROMERO GARCIA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "5",
+       "nombre": "HAROLD SANTIAGO BOLAÑOS FUENTES",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "6",
+       "nombre": "VICTOR HUGO LENIS",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "6",
+       "nombre": "JESUS YESID VELASCO PEÑA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "12",
+       "nombre": "LUIS MIGUEL GAITAN",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "12",
+       "nombre": "PABLO BREYSON GOMEZ BARRERA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "14",
+       "nombre": "ROBINSON CHIVATA GONZALEZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "14",
+       "nombre": "SERGIO ALBARRACIN CHIPIAJE",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "15",
+       "nombre": "LUIS FERNANDO REYES MUÑOZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "15",
+       "nombre": "ARCESIO RODRIGUEZ OYOLA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "16",
+       "nombre": "LUIS ANTONIO RAMIREZ RIVERO",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "16",
+       "nombre": "EDGAR ANDRES DAZA ESTUPIÑAN",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "17",
+       "nombre": "URIEL ANDRES ALBERNIA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "17",
+       "nombre": "JUAN GAITAN LEON",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "21",
+       "nombre": "JOHNATAN FERNEY MOLINA ANZOLA",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "21",
+       "nombre": "HUGO ALBEIRO MORENO MARTINEZ",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "24",
+       "nombre": "DIEGO ALEJANDRO ORREGO CARVAJAL",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "24",
+       "nombre": "IVAN DARIO GOMEZ CARDENAS",
+       "turno": "INGRESA"
+      }
+     ]
+    },
+    {
+     "fecha": "2026-09-25",
+     "filas": [
+      {
+       "hab": "5",
+       "nombre": "KEVIN FELIPE ROMERO GARCIA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "5",
+       "nombre": "MICHAEL STEVEN ORTIZ RODRIGUEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "6",
+       "nombre": "VICTOR HUGO LENIS",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "6",
+       "nombre": "YEFFERSON ANDRES HERRERA CABEZAS",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "12",
+       "nombre": "JESUS ONOFRE PARRADO CRUZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "12",
+       "nombre": "PABLO BREYSON GOMEZ BARRERA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "14",
+       "nombre": "GERMAN DANIEL MARTINEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "14",
+       "nombre": "CARLOS EDUARDO CORREA SILVA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "15",
+       "nombre": "CRISTIAN YESID CUELLAR GONZALEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "15",
+       "nombre": "ARCESIO RODRIGUEZ OYOLA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "16",
+       "nombre": "JOHN FREDY CASTAÑO MARIÑO",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "16",
+       "nombre": "EDGAR ANDRES DAZA ESTUPIÑAN",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "17",
+       "nombre": "URIEL ANDRES ALBERNIA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "17",
+       "nombre": "GERMAN LARA LEON",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "21",
+       "nombre": "JOHNATAN FERNEY MOLINA ANZOLA",
+       "turno": "MITAD"
+      },
+      {
+       "hab": "21",
+       "nombre": "YOLBER EDY YAIR GONDELLEZ MARTINEZ",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "24",
+       "nombre": "DONNAL YONEY GALLO",
+       "turno": "INGRESA"
+      },
+      {
+       "hab": "24",
+       "nombre": "IVAN DARIO GOMEZ CARDENAS",
+       "turno": "MITAD"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

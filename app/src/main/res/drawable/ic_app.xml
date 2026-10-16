@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono: puerta de habitación con calendario -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#2F55D4" android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M32,24h44a4,4 0,0 1,4 4v56h-52v-56a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#2F55D4" android:pathData="M38,34h32v6h-32z" />
+    <path android:fillColor="#D9653A" android:pathData="M38,46h8v8h-8zM50,46h8v8h-8zM62,46h8v8h-8z" />
+    <path android:fillColor="#DCE4FC" android:pathData="M38,58h8v8h-8zM50,58h8v8h-8zM62,58h8v8h-8z" />
+    <path android:fillColor="#1B2438" android:pathData="M64,74a3,3 0,1 1,0.01 0z" />
+</vector>

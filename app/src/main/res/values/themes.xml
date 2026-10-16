@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Turnos" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#2F55D4</item>
+        <item name="colorPrimaryDark">#1B2438</item>
+        <item name="colorAccent">#2F55D4</item>
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/fondo</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+    </style>
+</resources>
