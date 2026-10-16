@@ -47,6 +47,11 @@ jobs:
           name: TurnosForastero
           path: TurnosForastero.apk
 
+      - name: Mover la etiqueta latest a esta versión
+        run: |
+          git tag -f latest
+          git push -f origin refs/tags/latest
+
       - name: Publicar en Releases
         uses: softprops/action-gh-release@v2
         with:
